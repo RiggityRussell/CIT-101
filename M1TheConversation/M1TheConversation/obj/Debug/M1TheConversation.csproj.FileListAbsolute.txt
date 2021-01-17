@@ -1,0 +1,9 @@
+C:\Users\russe\source\repos\M1TheConversation\M1TheConversation\obj\Debug\M1TheConversation.csprojAssemblyReference.cache
+C:\Users\russe\source\repos\M1TheConversation\M1TheConversation\obj\Debug\M1TheConversation.csproj.CoreCompileInputs.cache
+C:\Users\russe\OneDrive\Desktop\CIT 110\M1TheConversation\M1TheConversation\obj\Debug\M1TheConversation.csprojAssemblyReference.cache
+C:\Users\russe\OneDrive\Desktop\CIT 110\M1TheConversation\M1TheConversation\obj\Debug\M1TheConversation.csproj.CoreCompileInputs.cache
+C:\Users\russe\OneDrive\Desktop\CIT 110\M1TheConversation\M1TheConversation\bin\Debug\M1TheConversation.exe.config
+C:\Users\russe\OneDrive\Desktop\CIT 110\M1TheConversation\M1TheConversation\bin\Debug\M1TheConversation.exe
+C:\Users\russe\OneDrive\Desktop\CIT 110\M1TheConversation\M1TheConversation\bin\Debug\M1TheConversation.pdb
+C:\Users\russe\OneDrive\Desktop\CIT 110\M1TheConversation\M1TheConversation\obj\Debug\M1TheConversation.exe
+C:\Users\russe\OneDrive\Desktop\CIT 110\M1TheConversation\M1TheConversation\obj\Debug\M1TheConversation.pdb
