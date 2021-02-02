@@ -1,0 +1,7 @@
+C:\Users\russe\source\repos\TheExpertSystem WIP\TheExpertSystem WIP\obj\Debug\TheExpertSystem WIP.csprojAssemblyReference.cache
+C:\Users\russe\source\repos\TheExpertSystem WIP\TheExpertSystem WIP\obj\Debug\TheExpertSystem WIP.csproj.CoreCompileInputs.cache
+C:\Users\russe\source\repos\TheExpertSystem WIP\TheExpertSystem WIP\bin\Debug\TheExpertSystem WIP.exe.config
+C:\Users\russe\source\repos\TheExpertSystem WIP\TheExpertSystem WIP\bin\Debug\TheExpertSystem WIP.exe
+C:\Users\russe\source\repos\TheExpertSystem WIP\TheExpertSystem WIP\bin\Debug\TheExpertSystem WIP.pdb
+C:\Users\russe\source\repos\TheExpertSystem WIP\TheExpertSystem WIP\obj\Debug\TheExpertSystem WIP.exe
+C:\Users\russe\source\repos\TheExpertSystem WIP\TheExpertSystem WIP\obj\Debug\TheExpertSystem WIP.pdb
